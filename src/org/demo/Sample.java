@@ -22,6 +22,9 @@ public class Sample {
 	}else {
 		System.out.println("not palindrome");
 	}
+	
+	
+	System.out.println("--------end-------");
 
 }
 
